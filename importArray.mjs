@@ -1,2 +1,2 @@
 import a from "./exportArray.mjs";
-console.log(a);
+import myArray from "./exportArray.mjs";
